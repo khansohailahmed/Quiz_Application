@@ -156,10 +156,10 @@ The quiz consists of multiple-choice questions (MCQs) with a 30-second timer for
 4. Push the changes to your fork.
 5. Open a pull request with a description of your changes.
 
-## License
+## License   
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any issues or questions, feel free to reach out via [email@example.com](mailto:email@example.com).
+For any issues or questions, feel free to reach out via khansohailtufailahmed@gmail.com
